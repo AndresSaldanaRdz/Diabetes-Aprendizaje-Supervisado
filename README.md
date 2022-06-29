@@ -1,2 +1,7 @@
 # Diabetes-Aprendizaje-Supervisado
-En este artículo nos encontramos con la implementación de mode- los de aprendizaje supervisado para poder clasificar si una persona tiene diabetes o no. Lo que se hizo fue analizar la base de datos binaria de diabetes. Se entrenaron los modelos y se hicieron predic- ciones. Durante este artículo se verá el contexto del problema, la metodología usada, los conceptos importantes. Al igual que, los resultados de tanto el análisis exploratorio de la base de datos como de los modelos en sí, con sus debidas conclusiones
+
+En este proyecto nos encontramos con la implementación de modelos de aprendizaje supervisado para poder clasificar si una persona tiene diabetes o no.
+
+Para un analsis completo desde el contexto del problema, hasta las conclusiones de la investigacion, se debe leer TAL
+
+Asimismo se debe de usar la base de datos TAL
